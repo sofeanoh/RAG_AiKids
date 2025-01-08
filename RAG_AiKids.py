@@ -4,7 +4,7 @@ import streamlit as st
 import requests
 import logging
 
-BASE_API_URL = "http://localhost:7860"
+BASE_API_URL = "https://76d5-2001-e68-5431-ce6f-4862-a52a-6364-2e75.ngrok-free.app"
 FLOW_ID = "33cda795-b6b7-4403-8428-4e6f11230814"
 ENDPOINT = "Ai_Kids" # The endpoint name of the flow" # You can set a specific endpoint name in the flow settings
 
